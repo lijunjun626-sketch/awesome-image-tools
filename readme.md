@@ -55,7 +55,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 - [imgkilo — resize in pixels](https://imgkilo.com/resize-image-in-pixels) 🔒 — Set exact width and height (or fit within a maximum) with the aspect ratio locked, in the browser.
 
 ## Background removal
-
+- [Image Color Remover](https://imagecolorremover.com/) 🔒 — Remove a selected color or solid white background from PNG, JPG, JPEG and WebP files locally, with tolerance and edge-softness controls plus transparent PNG export.
 - [imgkilo — change photo background](https://imgkilo.com/change-photo-background) 🔒 — Cut out the subject and drop in white, a solid color, or transparency, in the browser. Handy for ID photos and simple product shots.
 - [Photoroom](https://www.photoroom.com) `$` — Background removal aimed at product and marketplace photos, with templates and batch tools. Strong results; full resolution and batch need a plan.
 - [rembg](https://github.com/danielgatis/rembg) `OSS` — Python library and CLI built on U²-Net. Self-host it to remove backgrounds in bulk with no per-image cost and nothing leaving your machine.
